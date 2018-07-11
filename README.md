@@ -1,2 +1,2 @@
 # strgcvkiller
-Replaces the semicolon on websites with the greek question mark
+Replaces the semicolon on websites in google chrome with the greek question mark
